@@ -1,6 +1,6 @@
 # Russianguide_bot
 # Описание программы
-Бот для мессенджера telegram
+Бот для мессенджера telegram созданный на языке Python
 Бот может:
 1. Рассказать о городах России:
 ![1](https://user-images.githubusercontent.com/103204349/217545829-8896fb3f-a058-4145-856c-400971585c32.jpg)
