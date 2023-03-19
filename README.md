@@ -1,7 +1,7 @@
 # Russianguide_bot
 Бот для мессенджера telegram созданный на языке Python<br />
 Бот может:
-# 1. Купить купить авиа/жд билеты забронировать отель
+# 1. Купить авиа/жд билеты забронировать отель
 ![0](https://user-images.githubusercontent.com/103204349/226172465-6be0bbf7-a5bb-43db-b494-2dca43b28db4.jpg)
 # 2. Рассказать о городах России:
 ![1](https://user-images.githubusercontent.com/103204349/226172466-4b43639e-9bf5-489f-8aef-e3e3e4bc72d4.jpg)
