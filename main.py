@@ -1,6 +1,6 @@
 # Установка необходимых библиотек
 import telebot
-import types
+from telebot import types
 from settings import TG_TOKEN
 # Подключение API ключа
 bot = telebot.TeleBot(TG_TOKEN)
