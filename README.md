@@ -2,10 +2,10 @@
 Бот для мессенджера telegram созданный на языке Python<br />
 Бот может:
 # 1. Купить авиа/жд билеты забронировать отель
-![0](https://user-images.githubusercontent.com/103204349/226172465-6be0bbf7-a5bb-43db-b494-2dca43b28db4.jpg)
+![0](https://user-images.githubusercontent.com/103204349/227716902-90dca309-7c8f-4bf6-b617-32a350d23df4.jpg)
 # 2. Рассказать о городах России:
-![1](https://user-images.githubusercontent.com/103204349/226172466-4b43639e-9bf5-489f-8aef-e3e3e4bc72d4.jpg)
-![2](https://user-images.githubusercontent.com/103204349/226172467-4c1657a3-651e-487c-8ce7-7a98dbac130d.png)
+![1](https://user-images.githubusercontent.com/103204349/227716891-a76bce14-a3fe-4e89-bd38-64cb42e67c2b.jpg)
+![2](https://user-images.githubusercontent.com/103204349/227716884-b9af71d5-d1a3-49c8-9f70-b684b7205a57.png)
 # Описание программы
 Применяемые библиотеки:<br />
 pyTelegramBotAPI 4.10.0 <br />
