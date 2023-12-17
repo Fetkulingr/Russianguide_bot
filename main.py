@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2023/02/08
+Ending 2023/03/25
+
+'''
 # Установка необходимых библиотек
 import telebot
 from telebot import types
